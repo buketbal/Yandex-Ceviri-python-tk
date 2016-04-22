@@ -1,5 +1,5 @@
 # Yandex Çeviri
-Kopyaladığın son yazıyı hafızadan çekip yandex çeviri ile türkçeye çeviren küçük bir program
+Kopyaladığın son yazıyı hafızadan çekip [yandex çeviri](https://ceviri.yandex.com.tr/) ile türkçeye çeviren küçük bir program
 
 ---
 
