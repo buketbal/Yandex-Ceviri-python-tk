@@ -24,6 +24,7 @@ message = """
 
 # User interface
 class Application(Frame):
+    
     def widgets(self):
         self.LABEL = Label(self)
         self.LABEL["text"] = message
